@@ -1,0 +1,107 @@
+header {
+    background-color: blue;
+    height: 150px; width: 100%;
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: gold;
+}
+
+main {
+    background-color: lightgreen;
+}
+
+td {
+    border: solid 2px;
+}
+
+#cel1 {
+    background-color: aliceblue;
+    width: 100px;
+    text-align: center;
+}
+
+#cel2 {
+    background-color: gold
+}
+
+#cel3 {
+    background-color: aqua;
+    width: 100px;
+    text-align: center;
+}
+
+#cel4 {
+    background-color: brown;
+}
+
+#cel5 {
+    background-color: blueviolet;
+    width: 100px;
+    text-align: center;
+}
+
+#cel6 {
+    background-color: yellow;
+}
+
+#cel7 {
+    background-color: pink;
+    width: 100px;
+    text-align: center;
+}
+
+#cel8 {
+    background-color: orange;
+}
+
+#cel9 {
+    background-color: steelblue;
+    width: 100px;
+    text-align: center;
+}
+
+#cel10 {
+    background-color: aquamarine;
+}
+
+#cel11 {
+    background-color: rebeccapurple;
+    width: 100px;
+    text-align: center;
+}
+
+#cel12 {
+    background-color: indianred;
+}
+
+#cel13 {
+    background-color: lawngreen;
+    width: 100px;
+    text-align: center;
+}
+
+#cel14 {
+    background-color: lightsalmon;
+}
+
+#cel15 {
+    background-color: teal;
+    width: 100px;
+    text-align: center;
+}
+
+#cel16 {
+    background-color: wheat;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+footer {
+    background-color: yellow;
+    height: 150px; width: 100%;
+}
